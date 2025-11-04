@@ -1,9 +1,7 @@
-# Python virtual environments
 .venv/
 env/
 venv/
 
-# Python caches
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -11,7 +9,5 @@ __pycache__/
 build/
 dist/
 
-# IDE / tooling
 .vscode/
 .idea/
-*.pyc
