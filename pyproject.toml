@@ -1,0 +1,5 @@
+# pyproject.toml（放在仓库根目录）
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
